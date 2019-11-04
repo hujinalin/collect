@@ -73,6 +73,7 @@
 		{name:'Components | BootstrapVue', desc:'Components | BootstrapVue', url:'https://bootstrap-vue.js.org/docs/components/'},
 		{name:'GeoHey|极海云', desc:'GeoHey|极海云', url:'http://geohey.com/data/public-data'},
 		{name:'Git for Windows 国内下载站', desc:'Git for Windows 国内下载站', url:'https://github.com/waylau/git-for-win'},
+		{name:'inMap', desc:'inMap', url:'http://inmap.talkingdata.com/#/docs/v2/introduce'},
 		{name:'', desc:'', url:''},
 	];
 	var str = ``;
