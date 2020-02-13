@@ -74,6 +74,13 @@
 		{name:'GeoHey|极海云', desc:'GeoHey|极海云', url:'http://geohey.com/data/public-data'},
 		{name:'Git for Windows 国内下载站', desc:'Git for Windows 国内下载站', url:'https://github.com/waylau/git-for-win'},
 		{name:'inMap', desc:'inMap', url:'http://inmap.talkingdata.com/#/docs/v2/introduce'},
+		{name:'panzoid', desc:'视频剪辑，开头', url:'https://panzoid.com'},
+		{name:'removebg', desc:'在线抠图，去除背景', url:'http://www.remove.bg'},
+		{name:'字体家', desc:'免费字体，下载', url:'https://www.zitijia.com'},
+		{name:'airdroid', desc:'录屏，手机电脑文件传输，直播', url:'https://web.airdroid.com'},
+		{name:'今日热榜', desc:'几乎所有平台的热点新闻', url:'https://tophub.today'},
+		{name:'壁纸网', desc:'壁纸，高清', url:'https://www.pexels.com'},
+		{name:'网站大全', desc:'找网站，网站大全', url:'https://www.addog.vip'},
 		{name:'', desc:'', url:''},
 	];
 	var str = ``;
